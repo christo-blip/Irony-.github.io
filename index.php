@@ -81,7 +81,7 @@
     <div class="carousel-inner" role="listbox">
       
     <div class="item active">
-        <img src="Images/banner2.PNG" alt="New York" width="50%" height="500">
+        <img src="Images/banner2.png" alt="New York" width="50%" height="500">
         
         <div class="carousel-caption">
         <div class=" text-center-bg-success">
@@ -95,7 +95,7 @@
       </div>
 
       <div class="item">
-        <img src="Images/banner1.PNG" alt="Chicago" width="80%" height="700">
+        <img src="Images/banner1.png" alt="Chicago" width="80%" height="700">
         <div class="carousel-caption">
         <div class=" text-center-bg-success"> 
         
@@ -110,7 +110,7 @@
       </div>
     
       <div class="item">
-        <img src="Images/banner3.PNG" alt="Los Angeles" width="80%" height="700">
+        <img src="Images/banner3.png" alt="Los Angeles" width="80%" height="700">
         <div class="carousel-caption">
         <div class=" text-center-bg-success"> 
         
@@ -125,7 +125,7 @@
       </div>
     
       <div class="item">
-        <img src="Images/banner4.PNG" alt="Los Angeles" width="80%" height="700">
+        <img src="Images/banner4.png" alt="Los Angeles" width="80%" height="700">
         <div class="carousel-caption">   
         <div class=" text-center-bg-success"> 
         
@@ -342,17 +342,17 @@ Steel Brands
 
 <div class="boxover">
 <div class="roundflow">
-<div style="--v: 1;"><img src="Images/company-1.PNG"></div>
-<div style="--v: 2;"><img src="Images/company-2.PNG"></div>
-<div style="--v: 3;"><img src="Images/company-3.PNG"></div>
-<div style="--v: 4;"><img src="Images/company-4.PNG"></div>
-<div style="--v: 5;"><img src="Images/company-5.PNG"></div>
-<div style="--v: 6;"><img src="Images/company-6.PNG"></div>
-<div style="--v: 7;"><img src="Images/company-7.PNG"></div>
-<div style="--v: 8;"><img src="Images/company-8.PNG"></div>
-<div style="--v: 9;"><img src="Images/company-9.PNG"></div>
-<div style="--v: 10;"><img src="Images/company-10.PNG"></div>
-<div style="--v: 11;"><img src="Images/company-11.PNG"></div>
+<div style="--v: 1;"><img src="Images/company-1.png"></div>
+<div style="--v: 2;"><img src="Images/company-2.png"></div>
+<div style="--v: 3;"><img src="Images/company-3.png"></div>
+<div style="--v: 4;"><img src="Images/company-4.png"></div>
+<div style="--v: 5;"><img src="Images/company-5.png"></div>
+<div style="--v: 6;"><img src="Images/company-6.png"></div>
+<div style="--v: 7;"><img src="Images/company-7.png"></div>
+<div style="--v: 8;"><img src="Images/company-8.png"></div>
+<div style="--v: 9;"><img src="Images/company-9.png"></div>
+<div style="--v: 10;"><img src="Images/company-10.png"></div>
+<div style="--v: 11;"><img src="Images/company-11.png"></div>
 </div>
 </div>
 
