@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="style.css">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" 
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-  <link rel="icon" href="Images/favicon.PNG" type="image/gif/png">
+  <link rel="icon" href="Images/favicon.png" type="image/gif/png">
 
 </head>
 
